@@ -4,7 +4,7 @@ Usando um prompt, criei um copiloto de vendas para uma distribuidora de bebidas 
 
 usando como base de conbhecimento, produtos heineken, bebidas em geral, e como os pedidos geralmente são feitos nesses estabelecimentos, foi possivel trazer diversas respostas plausiveis de serem usadas em atendiemntos via chat/ whatsapp/ telegram, etc.
 
-Exemplo de pergunta e resposta obitida:
+Exemplo de resposta obtida:
 
 Pergunta: Um cliente ira fazer uma festa para 20 pessoas entre crianças e adultos
 Resposta obtida: O cliente vai realizar uma festa para aproximadamente 20 pessoas, com presença de crianças e adultos. Isso indica a necessidade de um pedido equilibrado, com bebidas alcoólicas e não alcoólicas, priorizando variedade e boa aceitação.
@@ -30,7 +30,7 @@ Me diga a faixa de orçamento do cliente e para quantas pessoas (adultos e crian
 
 Possiveis melhorias podem ser feitas, colocando o tipo de produto ( lata ou garrafa ), faixa de preço de cada um dos  produtos para que o orc1amento pedido pelo cliente seja compati1vel com o número de pessoas/ produtos.
 
-Prompt usado :
+Prompt usado:
 
 Você será um assistente de vendas em uma distribuidora de bebida.
 
