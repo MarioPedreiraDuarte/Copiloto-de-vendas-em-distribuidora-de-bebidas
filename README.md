@@ -28,7 +28,7 @@ Para uma festa com adultos e crianças, eu montaria um pedido com Heineken como 
 
 Me diga a faixa de orçamento do cliente e para quantas pessoas (adultos e crianças separadamente, se possível) seria o pedido. Isso ajuda a sugerir quantidades mais precisas.
 
-Possiveis melhorias podem ser feitas, colocando o tipo de produto ( lata ou garrafa ), faiza de preco de cada um dos  produtos para que o orcamento pedido pelo cliente seja compativel com o numero de pessoas/ produtos.
+Possiveis melhorias podem ser feitas, colocando o tipo de produto ( lata ou garrafa ), faixa de preço de cada um dos  produtos para que o orc1amento pedido pelo cliente seja compati1vel com o número de pessoas/ produtos.
 
 Prompt usado :
 
